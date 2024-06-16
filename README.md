@@ -1,4 +1,4 @@
-# Anti Sleep Alarm for Drivers with Alcohol D
+# Anti Sleep Alarm for Drivers with Alcohol Detector
 
 
 ## Project Overview
