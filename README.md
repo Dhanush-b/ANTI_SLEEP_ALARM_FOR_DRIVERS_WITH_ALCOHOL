@@ -50,11 +50,9 @@ The system's block diagram includes:
 | Buzzer           | 5V Buzzer     | 1      |
 | NRF24L01         | RF Module     | 1      |
 | Lithium Ion Battery | Battery   | 1      |
-| Jumper Wires     | Connecting wires | -    |
 | Eye Blink Sensor | Eye blink detection | 1  |
 | IR Sensor        | Infrared Sensor | 1      |
 | PCB Board        | Printed Circuit Board | 1|
-| Connecting Wires | -            | -        |
 
 
 
